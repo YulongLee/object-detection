@@ -19,17 +19,6 @@ The detection results contains three part:
 - **Bounding box regression**: the bounding boxes’ left top, height, and width.
 - **Facial landmark localization**: There are five facial landmarks, including left eye, right eye, nose, left mouth corner, and right mouth corner
 
-## Citation
-
-```bashrc
-@Github_Project{TensorFlow2.0-Examples,
-  author       = YunYang1994,
-  email        = www.dreameryangyun@sjtu.edu.cn,
-  title        = "MTCNN: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks",
-  url          = https://github.com/YunYang1994/TensorFlow2.0-Examples,
-  year         = 2019,
-}
-```
 
 
 
