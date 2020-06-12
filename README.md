@@ -7,9 +7,6 @@ This repository is the implementation of MTCNN in TF2.  It is written from scrat
 ## Inference
 Just download the repository and then do this
 
-```bashrc
-$ python main.py
-```
 <p align="center">
     <img width="100%" src="https://user-images.githubusercontent.com/30433053/67630296-52519b80-f8c0-11e9-8185-75f2e0d46ee8.png" style="max-width:100%;">
     </a>
