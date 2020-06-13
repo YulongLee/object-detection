@@ -1,16 +1,3 @@
-#! /usr/bin/env python
-# coding=utf-8
-#================================================================
-#   Copyright (C) 2019 * Ltd. All rights reserved.
-#
-#   Editor      : VIM
-#   File name   : mtcnn.py
-#   Author      : YunYang1994
-#   Created date: 2019-10-26 19:22:04
-#   Description :
-#
-#================================================================
-
 import tensorflow as tf
 
 
