@@ -44,9 +44,6 @@ For training RPN, I use synthetic datasets which contains a set of 8239 images w
 --------------------
 I think the most exciting things in the region proposal network is Anchors. I use 9 anchors at each sliding position. During training, a candidate bounding box will be treated as a positive if its intersection-over-union overlap with a ground-truth box exceeds 50%, and will be a negative for overlaps less than 10%. 
 
-```bashrc
-$ python demo.py
-```
 
 <p align="center">
     <img width="60%" src="https://user-images.githubusercontent.com/30433053/67204319-db3f8180-f43f-11e9-99fe-bb73b0123fc6.png" style="max-width:60%;">
