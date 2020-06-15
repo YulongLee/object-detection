@@ -18,7 +18,7 @@ The detection results contains three part:
 - **Bounding box regression**: the bounding boxes’ left top, height, and width.
 - **Facial landmark localization**: There are five facial landmarks, including left eye, right eye, nose, left mouth corner, and right mouth corner
 ## RPN
-## [RPN: RegionProposal Network](https://yunyang1994.github.io/posts/RPN/#more)
+## [RPN: RegionProposal Network]
 --------------------
 
 This repository is implemented for paper ["Expecting the Unexpected: Training Detectors for Unusual Pedestrians with Adversarial Imposters(CVPR2017)"](https://arxiv.org/pdf/1703.06283), which makes some improvements on the basis of region proposal network in [Faster-RCNN](http://arxiv.org/abs/1506.01497). 
