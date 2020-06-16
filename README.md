@@ -79,9 +79,6 @@ The model will automatically save weights `./RPN.h5` in each epoch. During neura
 ```
 Finally you can test `RPN.h5` with [test.py](https://github.com/YunYang1994/TensorFlow2.0-Examples/blob/master/4-Object_Detection/RPN/test.py) for 200 images. The prediction results are expected to save in `./prediction`. Here is my trained weight https://pan.baidu.com/s/1o6HeQou9sCczLA_rzkTPqg
 
-```
-$ python test.py
-```
 
 |![image](https://user-images.githubusercontent.com/30433053/67265442-5789a180-f4e0-11e9-9fcd-6e72136c2913.png)|![image](https://user-images.githubusercontent.com/30433053/67265549-915aa800-f4e0-11e9-91e8-87ee05b7748c.png)|
 |---|---
