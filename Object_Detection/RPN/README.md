@@ -70,17 +70,3 @@ $ python test.py
 |---|---
 |![image](https://user-images.githubusercontent.com/30433053/67265487-6c663500-f4e0-11e9-8bf9-f9d59d22b0a8.png)|![image](https://user-images.githubusercontent.com/30433053/67265620-c36c0a00-f4e0-11e9-8689-9d3b6efaff47.png)
 
-## Citation
---------------------
-```bashrc
-@Github_Project{TensorFlow2.0-Examples,
-  author       = YunYang1994,
-  email        = www.dreameryangyun@sjtu.edu.cn,
-  title        = "RPN: a Region Proposal Network",
-  url          = https://github.com/YunYang1994/TensorFlow2.0-Examples,
-  year         = 2019,
-}
-```
-
-
-
